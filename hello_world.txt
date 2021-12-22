@@ -1,0 +1,2 @@
+This is a text!
+Excercise 6 Odin Project
